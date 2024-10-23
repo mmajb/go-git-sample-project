@@ -136,7 +136,6 @@ github.com/swaggo/gin-swagger
 # github.com/swaggo/swag v1.16.4
 ## explicit; go 1.18
 github.com/swaggo/swag
-github.com/swaggo/swag/example/basic/docs
 # github.com/twitchyliquid64/golang-asm v0.15.1
 ## explicit; go 1.13
 github.com/twitchyliquid64/golang-asm/asm/arch
