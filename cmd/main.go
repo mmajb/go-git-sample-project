@@ -6,7 +6,7 @@ import (
 	"github.com/mmajb/go-git-sample-project/math"
 	"github.com/mmajb/go-git-sample-project/utils"
 	"github.com/gin-gonic/gin"
-    //"github.com/swaggo/swag/example/basic/docs" // you will need to import this for the generated docs
+    _ "github.com/swaggo/swag/example/basic/docs" // you will need to import this for the generated docs
     "github.com/swaggo/gin-swagger"
     "github.com/swaggo/files" // swagger embed files
 
